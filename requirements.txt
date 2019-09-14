@@ -1,0 +1,4 @@
+Requirements
+-python 2.7 and above
+-numpy module 
+-use pip install numpy //for installing numpy in linux terminal 
